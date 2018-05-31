@@ -1,0 +1,202 @@
+{
+   "Asian Paints": {
+      "code": "API",
+      "icode": "INE021A01026"
+   },
+   "Bajaj Auto": {
+      "code": "BA06",
+      "icode": "INE917I01010"
+   },
+   "Bajaj Finance": {
+      "code": "BAF",
+      "icode": "INE296A01024"
+   },
+   "Bajaj Finserv": {
+      "code": "BF04",
+      "icode": "INE918I01018"
+   },
+   "Bharti Infratel": {
+      "code": "BI26",
+      "icode": "INE121J01017"
+   },
+   "BPCL": {
+      "code": "BPC",
+      "icode": "INE029A01011"
+   },
+   "Bharti Airtel": {
+      "code": "BTV",
+      "icode": "INE397D01024"
+   },
+   "Cipla": {
+      "code": "C",
+      "icode": "INE059A01026"
+   },
+   "Coal India": {
+      "code": "CI29",
+      "icode": "INE522F01014"
+   },
+   "Dr Reddys Labs": {
+      "code": "DRL",
+      "icode": "INE089A01023"
+   },
+   "Eicher Motors": {
+      "code": "EM",
+      "icode": "INE066A01013"
+   },
+   "GAIL": {
+      "code": "GAI",
+      "icode": "INE129A01019"
+   },
+   "Grasim": {
+      "code": "GI01",
+      "icode": "INE047A01021"
+   },
+   "Hindalco": {
+      "code": "H",
+      "icode": "INE038A01020"
+   },
+   "HCL Tech": {
+      "code": "HCL02",
+      "icode": "INE860A01027"
+   },
+   "HDFC": {
+      "code": "HDF",
+      "icode": "INE001A01036"
+   },
+   "HDFC Bank": {
+      "code": "HDF01",
+      "icode": "INE040A01026"
+   },
+   "Hero Motocorp": {
+      "code": "HHM",
+      "icode": "INE158A01026"
+   },
+   "HUL": {
+      "code": "HL",
+      "icode": "INE030A01027"
+   },
+   "HPCL": {
+      "code": "HPC",
+      "icode": "INE094A01015"
+   },
+   "ICICI Bank": {
+      "code": "ICI02",
+      "icode": "INE090A01021"
+   },
+   "Indiabulls Hsg": {
+      "code": "IHF01",
+      "icode": "INE148I01020"
+   },
+   "IndusInd Bank": {
+      "code": "IIB",
+      "icode": "INE095A01012"
+   },
+   "IOC": {
+      "code": "IOC",
+      "icode": "INE242A01010"
+   },
+   "Infosys": {
+      "code": "IT",
+      "icode": "INE009A01021"
+   },
+   "ITC": {
+      "code": "ITC",
+      "icode": "INE154A01025"
+   },
+   "Kotak Mahindra": {
+      "code": "KMF",
+      "icode": "INE237A01028"
+   },
+   "Lupin": {
+      "code": "LC03",
+      "icode": "INE326A01037"
+   },
+   "Larsen": {
+      "code": "LT",
+      "icode": "INE018A01030"
+   },
+   "M&M": {
+      "code": "MM",
+      "icode": "INE101A01026"
+   },
+   "Adani Ports": {
+      "code": "MPS",
+      "icode": "INE742F01042"
+   },
+   "Maruti Suzuki": {
+      "code": "MU01",
+      "icode": "INE585B01010"
+   },
+   "NTPC": {
+      "code": "NTP",
+      "icode": "INE733E01010"
+   },
+   "ONGC": {
+      "code": "ONG",
+      "icode": "INE213A01029"
+   },
+   "Power Grid Corp": {
+      "code": "PGC",
+      "icode": "INE752E01010"
+   },
+   "Reliance": {
+      "code": "RI",
+      "icode": "INE002A01018"
+   },
+   "SBI": {
+      "code": "SBI",
+      "icode": "INE062A01020"
+   },
+   "Vedanta": {
+      "code": "SG",
+      "icode": "INE205A01025"
+   },
+   "UPL": {
+      "code": "SI10",
+      "icode": "INE628A01036"
+   },
+   "Sun Pharma": {
+      "code": "SPI",
+      "icode": "INE044A01036"
+   },
+   "TCS": {
+      "code": "TCS",
+      "icode": "INE467B01029"
+   },
+   "Tata Motors": {
+      "code": "TEL",
+      "icode": "INE155A01022"
+   },
+   "Titan Company": {
+      "code": "TI01",
+      "icode": "INE280A01028"
+   },
+   "Tata Steel": {
+      "code": "TIS",
+      "icode": "INE081A01012"
+   },
+   "Tech Mahindra": {
+      "code": "TM4",
+      "icode": "INE669C01036"
+   },
+   "UltraTechCement": {
+      "code": "UTC",
+      "icode": "INE481G01011"
+   },
+   "Axis Bank": {
+      "code": "UTI10",
+      "icode": "INE238A01034"
+   },
+   "Wipro": {
+      "code": "W",
+      "icode": "INE075A01022"
+   },
+   "Yes Bank": {
+      "code": "YB",
+      "icode": "INE528G01027"
+   },
+   "Zee Entertain": {
+      "code": "ZT",
+      "icode": "INE256A01028"
+   }
+}
